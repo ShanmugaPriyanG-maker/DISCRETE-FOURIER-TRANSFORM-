@@ -109,14 +109,13 @@ ylabel("∠X(k) (rad)");
 
 ### OUTPUT: 
  ##### DISCRETE FOURIER TRANSFORM USING DIRECT METHOD
- 
-<img width="343" height="314" alt="image" src="https://github.com/user-attachments/assets/396ca415-54c8-46da-adc3-f4fa5348c971" />
-<img width="310" height="314" alt="image" src="https://github.com/user-attachments/assets/b0103985-68ad-4434-a984-f3075afc7b32" />
+ <img width="2880" height="1696" alt="DFT1" src="https://github.com/user-attachments/assets/89e58196-4988-447a-8c16-3e0a6a2e85fc" />
+ <img width="914" height="502" alt="DFT2" src="https://github.com/user-attachments/assets/6b7d465c-e0a2-4291-8beb-0b2e2d264e43" />
+
 
 ##### DISCRETE FOURIER TRANSFORM USING FFT ALGORITHM
-
-<img width="375" height="483" alt="image" src="https://github.com/user-attachments/assets/96ecf249-bd94-4ec6-96be-36d594edddf1" />  
-<img width="374" height="435" alt="image" src="https://github.com/user-attachments/assets/cbe03110-1d1e-435d-bd18-5af69b27826b" />
+<img width="2865" height="1458" alt="DFT FFT1" src="https://github.com/user-attachments/assets/e792c0ad-13ef-42ce-b82c-479dbdb99827" />
+<img width="1063" height="461" alt="DFT FFT2" src="https://github.com/user-attachments/assets/28d78879-45d6-4ca6-b252-a8cd94674771" />
 
 
 ### RESULT: 
